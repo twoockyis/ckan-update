@@ -1,0 +1,2354 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ifd_community_site_locations_level_3_district" id="ifd_community_site_locations_level_3_district">
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="new_commun" type="string"></SimpleField>
+	<SimpleField name="old_commun" type="string"></SimpleField>
+	<SimpleField name="comm_fkt" type="string"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+</Schema>
+<Folder><name>ifd_community_site_locations_level_3_district</name>
+  <Placemark>
+	<name>Site communautaire Ampasimpotsy Maroharatra</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="new_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="old_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="comm_fkt">MAROHARATRA_AMPASIMPOTSY</SimpleData>
+		<SimpleData name="lon">47.74765</SimpleData>
+		<SimpleData name="lat">-20.73535</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.74765,-20.73535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambodivoasary</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">2</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMANGA DU SUD_AMBODIVOASARY</SimpleData>
+		<SimpleData name="lon">47.5825</SimpleData>
+		<SimpleData name="lat">-20.91542</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.5825,-20.91542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Amboatrotroka</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">3</SimpleData>
+		<SimpleData name="new_commun">MAROTOKO</SimpleData>
+		<SimpleData name="old_commun">MAROTOKO</SimpleData>
+		<SimpleData name="comm_fkt">MAROTOKO_AMBOATROTROKA</SimpleData>
+		<SimpleData name="lon">47.67272</SimpleData>
+		<SimpleData name="lat">-21.62487</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.67272,-21.62487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Mandiafasina</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">4</SimpleData>
+		<SimpleData name="new_commun">MAROTOKO</SimpleData>
+		<SimpleData name="old_commun">MAROTOKO</SimpleData>
+		<SimpleData name="comm_fkt">MAROTOKO_MANDIAFASINA</SimpleData>
+		<SimpleData name="lon">47.74448</SimpleData>
+		<SimpleData name="lat">-21.56082</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.74448,-21.56082</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambodiara Sud Marotoko</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">5</SimpleData>
+		<SimpleData name="new_commun">MAROTOKO</SimpleData>
+		<SimpleData name="old_commun">MAROTOKO</SimpleData>
+		<SimpleData name="comm_fkt">MAROTOKO_AMBODIARA SUD</SimpleData>
+		<SimpleData name="lon">47.78823</SimpleData>
+		<SimpleData name="lat">-21.5392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.78823,-21.5392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Manampandrana</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">6</SimpleData>
+		<SimpleData name="new_commun">MAROTOKO</SimpleData>
+		<SimpleData name="old_commun">MAROTOKO</SimpleData>
+		<SimpleData name="comm_fkt">MAROTOKO_MANAMPANDRANA</SimpleData>
+		<SimpleData name="lon">47.78392</SimpleData>
+		<SimpleData name="lat">-21.5541</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.78392,-21.5541</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambalapaiso</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">7</SimpleData>
+		<SimpleData name="new_commun">FASINTSARA</SimpleData>
+		<SimpleData name="old_commun">FASINTSARA</SimpleData>
+		<SimpleData name="comm_fkt">FASINTSARA_AMBALAPAISO</SimpleData>
+		<SimpleData name="lon">47.65855</SimpleData>
+		<SimpleData name="lat">-20.65128</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.65855,-20.65128</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Analavory</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">8</SimpleData>
+		<SimpleData name="new_commun">ANALAMPASINA</SimpleData>
+		<SimpleData name="old_commun">ANALAMPASINA</SimpleData>
+		<SimpleData name="comm_fkt">ANALAMPASINA_ANALAVORY</SimpleData>
+		<SimpleData name="lon">47.5151</SimpleData>
+		<SimpleData name="lat">-20.86513</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.5151,-20.86513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Centroide fokontany Androrangavola</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">9</SimpleData>
+		<SimpleData name="new_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="old_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="comm_fkt">ANDRORANGAVOLA_ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="lon">47.71711</SimpleData>
+		<SimpleData name="lat">-21.50458</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.71711,-21.50458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambatofanokonana</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">10</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMANGA DU SUD_AMBATOFANOKONANA</SimpleData>
+		<SimpleData name="lon">47.6168</SimpleData>
+		<SimpleData name="lat">-20.93152</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.6168,-20.93152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambodirafia</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">11</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMANGA DU SUD_AMBODIRAFIA</SimpleData>
+		<SimpleData name="lon">47.65475</SimpleData>
+		<SimpleData name="lat">-20.92653</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.65475,-20.92653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Antanjona</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">12</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMANGA DU SUD_ANTANJONA</SimpleData>
+		<SimpleData name="lon">47.68813</SimpleData>
+		<SimpleData name="lat">-20.99495</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.68813,-20.99495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Faliarivo</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">13</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMANGA DU SUD_FALIARIVO</SimpleData>
+		<SimpleData name="lon">47.68663</SimpleData>
+		<SimpleData name="lat">-20.96583</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.68663,-20.96583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Manakana</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">14</SimpleData>
+		<SimpleData name="new_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="old_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="comm_fkt">MAROHARATRA_MANAKANA</SimpleData>
+		<SimpleData name="lon">47.73707</SimpleData>
+		<SimpleData name="lat">-20.6957</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.73707,-20.6957</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Andemaka Nord</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">15</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMIERA_ANDEMAKA NORD</SimpleData>
+		<SimpleData name="lon">47.54213</SimpleData>
+		<SimpleData name="lat">-21.03288</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.54213,-21.03288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Manarinony</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">16</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMIERA_MANARINONY</SimpleData>
+		<SimpleData name="lon">47.58877</SimpleData>
+		<SimpleData name="lat">-21.09565</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.58877,-21.09565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Antarambakana</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">17</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMIERA_ANTARAMBAKANA</SimpleData>
+		<SimpleData name="lon">47.52335</SimpleData>
+		<SimpleData name="lat">-20.97763</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.52335,-20.97763</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Sahalalona</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">18</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMIERA_SAHALALONA</SimpleData>
+		<SimpleData name="lon">47.58573</SimpleData>
+		<SimpleData name="lat">-21.01683</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.58573,-21.01683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Androrangavola</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">19</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMIERA_ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="lon">47.59068</SimpleData>
+		<SimpleData name="lat">-21.05977</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.59068,-21.05977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Vohimena</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">20</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMIERA_VOHIMENA</SimpleData>
+		<SimpleData name="lon">47.61417</SimpleData>
+		<SimpleData name="lat">-21.10345</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.61417,-21.10345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Kianjanomby Marotoko</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">21</SimpleData>
+		<SimpleData name="new_commun">MAROTOKO</SimpleData>
+		<SimpleData name="old_commun">MAROTOKO</SimpleData>
+		<SimpleData name="comm_fkt">MAROTOKO_KIANJANOMBY</SimpleData>
+		<SimpleData name="lon">47.73327</SimpleData>
+		<SimpleData name="lat">-21.61007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.73327,-21.61007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Soanierana</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">22</SimpleData>
+		<SimpleData name="new_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="old_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="comm_fkt">MAROHARATRA_SOANIERANA</SimpleData>
+		<SimpleData name="lon">47.77728</SimpleData>
+		<SimpleData name="lat">-20.74137</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.77728,-20.74137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Sahakondro</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">23</SimpleData>
+		<SimpleData name="new_commun">FASINTSARA</SimpleData>
+		<SimpleData name="old_commun">FASINTSARA</SimpleData>
+		<SimpleData name="comm_fkt">FASINTSARA_SAHAKONDRO</SimpleData>
+		<SimpleData name="lon">47.64703</SimpleData>
+		<SimpleData name="lat">-20.78305</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.64703,-20.78305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Manakana Sud</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">24</SimpleData>
+		<SimpleData name="new_commun">FASINTSARA</SimpleData>
+		<SimpleData name="old_commun">FASINTSARA</SimpleData>
+		<SimpleData name="comm_fkt">FASINTSARA_MANAKANA SUD</SimpleData>
+		<SimpleData name="lon">47.67502</SimpleData>
+		<SimpleData name="lat">-20.80478</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.67502,-20.80478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambodiara Sud</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">25</SimpleData>
+		<SimpleData name="new_commun">FASINTSARA</SimpleData>
+		<SimpleData name="old_commun">FASINTSARA</SimpleData>
+		<SimpleData name="comm_fkt">FASINTSARA_AMBODIARA SUD</SimpleData>
+		<SimpleData name="lon">47.68895</SimpleData>
+		<SimpleData name="lat">-20.78227</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.68895,-20.78227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ampasinambo</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">26</SimpleData>
+		<SimpleData name="new_commun">AMPASINAMBO</SimpleData>
+		<SimpleData name="old_commun">FASINTSARA</SimpleData>
+		<SimpleData name="comm_fkt">AMPASINAMBO_AMPASINAMBO</SimpleData>
+		<SimpleData name="lon">47.68432</SimpleData>
+		<SimpleData name="lat">-20.61017</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.68432,-20.61017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambodivoangy</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">27</SimpleData>
+		<SimpleData name="new_commun">FASINTSARA</SimpleData>
+		<SimpleData name="old_commun">FASINTSARA</SimpleData>
+		<SimpleData name="comm_fkt">FASINTSARA_AMBODIVOANGY</SimpleData>
+		<SimpleData name="lon">47.62595</SimpleData>
+		<SimpleData name="lat">-20.66383</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.62595,-20.66383</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambinanisery</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">28</SimpleData>
+		<SimpleData name="new_commun">FASINTSARA</SimpleData>
+		<SimpleData name="old_commun">FASINTSARA</SimpleData>
+		<SimpleData name="comm_fkt">FASINTSARA_AMBINANISERY</SimpleData>
+		<SimpleData name="lon">47.72897</SimpleData>
+		<SimpleData name="lat">-20.65705</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.72897,-20.65705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambodirafia Tsaratanana</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">29</SimpleData>
+		<SimpleData name="new_commun">TSARATANANA</SimpleData>
+		<SimpleData name="old_commun">TSARATANANA</SimpleData>
+		<SimpleData name="comm_fkt">TSARATANANA_AMBODIRAFIA EST</SimpleData>
+		<SimpleData name="lon">47.72234</SimpleData>
+		<SimpleData name="lat">-21.12983</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.72234,-21.12983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Malemiambo</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">30</SimpleData>
+		<SimpleData name="new_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="old_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="comm_fkt">MAROHARATRA_MALEMIAMBO</SimpleData>
+		<SimpleData name="lon">47.78352</SimpleData>
+		<SimpleData name="lat">-20.75303</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.78352,-20.75303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambodifontsina</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">31</SimpleData>
+		<SimpleData name="new_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="old_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="comm_fkt">ANDRORANGAVOLA_AMBODIFONTSINA</SimpleData>
+		<SimpleData name="lon">47.71378</SimpleData>
+		<SimpleData name="lat">-21.42413</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.71378,-21.42413</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambalatenina</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">32</SimpleData>
+		<SimpleData name="new_commun">AMBIABE</SimpleData>
+		<SimpleData name="old_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="comm_fkt">AMBIABE_AMBALATENINA</SimpleData>
+		<SimpleData name="lon">47.6605</SimpleData>
+		<SimpleData name="lat">-21.44857</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.6605,-21.44857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambalafasina</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">33</SimpleData>
+		<SimpleData name="new_commun">AMBIABE</SimpleData>
+		<SimpleData name="old_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="comm_fkt">AMBIABE_AMBALAFASINA</SimpleData>
+		<SimpleData name="lon">47.62632</SimpleData>
+		<SimpleData name="lat">-21.48825</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.62632,-21.48825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Mahasoa</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">34</SimpleData>
+		<SimpleData name="new_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="old_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="comm_fkt">ANDRORANGAVOLA_MAHASOA</SimpleData>
+		<SimpleData name="lon">47.7864</SimpleData>
+		<SimpleData name="lat">-21.503</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.7864,-21.503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambodiroranga</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">35</SimpleData>
+		<SimpleData name="new_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="old_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="comm_fkt">ANDRORANGAVOLA_AMBODIRORANGA</SimpleData>
+		<SimpleData name="lon">47.68725</SimpleData>
+		<SimpleData name="lat">-21.53205</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.68725,-21.53205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Antafotenina</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">36</SimpleData>
+		<SimpleData name="new_commun">IFANADIANA</SimpleData>
+		<SimpleData name="old_commun">IFANADIANA</SimpleData>
+		<SimpleData name="comm_fkt">IFANADIANA_ANTAFOTENINA</SimpleData>
+		<SimpleData name="lon">47.65074</SimpleData>
+		<SimpleData name="lat">-21.32777</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.65074,-21.32777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Tsinjorano</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">37</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMIERA_TSINJORANO</SimpleData>
+		<SimpleData name="lon">47.53682</SimpleData>
+		<SimpleData name="lat">-21.06555</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.53682,-21.06555</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Sahasomangana</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">38</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMIERA_SAHASOMANGANA</SimpleData>
+		<SimpleData name="lon">47.54653</SimpleData>
+		<SimpleData name="lat">-21.07698</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.54653,-21.07698</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Marofotsy</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">39</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMIERA_MAROFOTSY</SimpleData>
+		<SimpleData name="lon">47.49465</SimpleData>
+		<SimpleData name="lat">-21.00165</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.49465,-21.00165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambinanindrano</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">40</SimpleData>
+		<SimpleData name="new_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="old_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="comm_fkt">MAROHARATRA_AMBINANINDRANO</SimpleData>
+		<SimpleData name="lon">47.80327</SimpleData>
+		<SimpleData name="lat">-20.68052</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.80327,-20.68052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Sahofika</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">41</SimpleData>
+		<SimpleData name="new_commun">TSARATANANA</SimpleData>
+		<SimpleData name="old_commun">TSARATANANA</SimpleData>
+		<SimpleData name="comm_fkt">TSARATANANA_SAHOFIKA</SimpleData>
+		<SimpleData name="lon">47.6312</SimpleData>
+		<SimpleData name="lat">-21.22655</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.6312,-21.22655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambohitsara</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">42</SimpleData>
+		<SimpleData name="new_commun">TSARATANANA</SimpleData>
+		<SimpleData name="old_commun">TSARATANANA</SimpleData>
+		<SimpleData name="comm_fkt">TSARATANANA_AMBOHITSARA I</SimpleData>
+		<SimpleData name="lon">47.66496</SimpleData>
+		<SimpleData name="lat">-21.18704</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.66496,-21.18704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Androrangavola Vatofotsy</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">43</SimpleData>
+		<SimpleData name="new_commun">TSARATANANA</SimpleData>
+		<SimpleData name="old_commun">TSARATANANA</SimpleData>
+		<SimpleData name="comm_fkt">TSARATANANA_ANDRORANGAVOLA VATOFOTSY</SimpleData>
+		<SimpleData name="lon">47.59193</SimpleData>
+		<SimpleData name="lat">-21.20758</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.59193,-21.20758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Tsaratanana</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">44</SimpleData>
+		<SimpleData name="new_commun">TSARATANANA</SimpleData>
+		<SimpleData name="old_commun">TSARATANANA</SimpleData>
+		<SimpleData name="comm_fkt">TSARATANANA_TSARATANANA</SimpleData>
+		<SimpleData name="lon">47.64138</SimpleData>
+		<SimpleData name="lat">-21.17212</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.64138,-21.17212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambodigoavy</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">45</SimpleData>
+		<SimpleData name="new_commun">TSARATANANA</SimpleData>
+		<SimpleData name="old_commun">TSARATANANA</SimpleData>
+		<SimpleData name="comm_fkt">TSARATANANA_AMBODIGOAVY</SimpleData>
+		<SimpleData name="lon">47.60122</SimpleData>
+		<SimpleData name="lat">-21.19705</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.60122,-21.19705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambodimanga Ouest</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">46</SimpleData>
+		<SimpleData name="new_commun">TSARATANANA</SimpleData>
+		<SimpleData name="old_commun">TSARATANANA</SimpleData>
+		<SimpleData name="comm_fkt">TSARATANANA_AMBODIMANGA OUEST</SimpleData>
+		<SimpleData name="lon">47.61238</SimpleData>
+		<SimpleData name="lat">-21.15615</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.61238,-21.15615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Vohitrarivo Tsaratanana</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">47</SimpleData>
+		<SimpleData name="new_commun">TSARATANANA</SimpleData>
+		<SimpleData name="old_commun">TSARATANANA</SimpleData>
+		<SimpleData name="comm_fkt">TSARATANANA_VOHITRARIVO</SimpleData>
+		<SimpleData name="lon">47.61411</SimpleData>
+		<SimpleData name="lat">-21.17465</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.61411,-21.17465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ampitambe Kelilalina</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">48</SimpleData>
+		<SimpleData name="new_commun">KELILALINA</SimpleData>
+		<SimpleData name="old_commun">KELILALINA</SimpleData>
+		<SimpleData name="comm_fkt">KELILALINA_AMPITAMBE</SimpleData>
+		<SimpleData name="lon">47.58129</SimpleData>
+		<SimpleData name="lat">-21.26372</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.58129,-21.26372</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Mandrivany</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">49</SimpleData>
+		<SimpleData name="new_commun">KELILALINA</SimpleData>
+		<SimpleData name="old_commun">KELILALINA</SimpleData>
+		<SimpleData name="comm_fkt">KELILALINA_MANDRIVANY</SimpleData>
+		<SimpleData name="lon">47.5599</SimpleData>
+		<SimpleData name="lat">-21.24986</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.5599,-21.24986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambodipaiso Nord</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">50</SimpleData>
+		<SimpleData name="new_commun">KELILALINA</SimpleData>
+		<SimpleData name="old_commun">KELILALINA</SimpleData>
+		<SimpleData name="comm_fkt">KELILALINA_AMBODIPAISO NORD</SimpleData>
+		<SimpleData name="lon">47.5782</SimpleData>
+		<SimpleData name="lat">-21.27862</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.5782,-21.27862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambodipaiso Sud</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">51</SimpleData>
+		<SimpleData name="new_commun">KELILALINA</SimpleData>
+		<SimpleData name="old_commun">KELILALINA</SimpleData>
+		<SimpleData name="comm_fkt">KELILALINA_AMBODIPAISO SUD</SimpleData>
+		<SimpleData name="lon">47.57072</SimpleData>
+		<SimpleData name="lat">-21.29843</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.57072,-21.29843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Kelilalina</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">52</SimpleData>
+		<SimpleData name="new_commun">KELILALINA</SimpleData>
+		<SimpleData name="old_commun">KELILALINA</SimpleData>
+		<SimpleData name="comm_fkt">KELILALINA_KELILALINA</SimpleData>
+		<SimpleData name="lon">47.55717</SimpleData>
+		<SimpleData name="lat">-21.30801</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.55717,-21.30801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Andranomainty</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">53</SimpleData>
+		<SimpleData name="new_commun">KELILALINA</SimpleData>
+		<SimpleData name="old_commun">KELILALINA</SimpleData>
+		<SimpleData name="comm_fkt">KELILALINA_ANDRANOMAINTY</SimpleData>
+		<SimpleData name="lon">47.57955</SimpleData>
+		<SimpleData name="lat">-21.32197</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.57955,-21.32197</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Anosy</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">54</SimpleData>
+		<SimpleData name="new_commun">KELILALINA</SimpleData>
+		<SimpleData name="old_commun">KELILALINA</SimpleData>
+		<SimpleData name="comm_fkt">KELILALINA_ANOSY</SimpleData>
+		<SimpleData name="lon">47.54427</SimpleData>
+		<SimpleData name="lat">-21.32568</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.54427,-21.32568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Volobe</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">55</SimpleData>
+		<SimpleData name="new_commun">AMPASINAMBO</SimpleData>
+		<SimpleData name="old_commun">FASINTSARA</SimpleData>
+		<SimpleData name="comm_fkt">AMPASINAMBO_VOLOBE</SimpleData>
+		<SimpleData name="lon">47.62922</SimpleData>
+		<SimpleData name="lat">-20.58048</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.62922,-20.58048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Tsaratanana Fasintsara</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">56</SimpleData>
+		<SimpleData name="new_commun">FASINTSARA</SimpleData>
+		<SimpleData name="old_commun">FASINTSARA</SimpleData>
+		<SimpleData name="comm_fkt">FASINTSARA_TSARATANANA</SimpleData>
+		<SimpleData name="lon">47.65445</SimpleData>
+		<SimpleData name="lat">-20.70952</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.65445,-20.70952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Tsararivotra</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">57</SimpleData>
+		<SimpleData name="new_commun">FASINTSARA</SimpleData>
+		<SimpleData name="old_commun">FASINTSARA</SimpleData>
+		<SimpleData name="comm_fkt">FASINTSARA_TSARARIVOTRA</SimpleData>
+		<SimpleData name="lon">47.66365</SimpleData>
+		<SimpleData name="lat">-20.71558</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.66365,-20.71558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Befotaka Fasintsara</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">58</SimpleData>
+		<SimpleData name="new_commun">FASINTSARA</SimpleData>
+		<SimpleData name="old_commun">FASINTSARA</SimpleData>
+		<SimpleData name="comm_fkt">FASINTSARA_BEFOTAKA</SimpleData>
+		<SimpleData name="lon">47.64768</SimpleData>
+		<SimpleData name="lat">-20.72363</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.64768,-20.72363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambohitsara Fasintsara</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">59</SimpleData>
+		<SimpleData name="new_commun">FASINTSARA</SimpleData>
+		<SimpleData name="old_commun">FASINTSARA</SimpleData>
+		<SimpleData name="comm_fkt">FASINTSARA_AMBOHITSARA</SimpleData>
+		<SimpleData name="lon">47.69508</SimpleData>
+		<SimpleData name="lat">-20.71597</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.69508,-20.71597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CSB2 Fasintsara</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">60</SimpleData>
+		<SimpleData name="new_commun">FASINTSARA</SimpleData>
+		<SimpleData name="old_commun">FASINTSARA</SimpleData>
+		<SimpleData name="comm_fkt">FASINTSARA_FASINTSARA</SimpleData>
+		<SimpleData name="lon">47.6925</SimpleData>
+		<SimpleData name="lat">-20.71742</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.6925,-20.71742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambohinihaonana Kelilalina</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">61</SimpleData>
+		<SimpleData name="new_commun">KELILALINA</SimpleData>
+		<SimpleData name="old_commun">KELILALINA</SimpleData>
+		<SimpleData name="comm_fkt">KELILALINA_AMBOHINIHAONANA</SimpleData>
+		<SimpleData name="lon">47.58807</SimpleData>
+		<SimpleData name="lat">-21.22332</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.58807,-21.22332</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire kianjanomby</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">62</SimpleData>
+		<SimpleData name="new_commun">KELILALINA</SimpleData>
+		<SimpleData name="old_commun">KELILALINA</SimpleData>
+		<SimpleData name="comm_fkt">KELILALINA_KIANJANOMBY</SimpleData>
+		<SimpleData name="lon">47.57353</SimpleData>
+		<SimpleData name="lat">-21.23877</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.57353,-21.23877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambinanindranotelo</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">63</SimpleData>
+		<SimpleData name="new_commun">AMBIABE</SimpleData>
+		<SimpleData name="old_commun">IFANADIANA</SimpleData>
+		<SimpleData name="comm_fkt">AMBIABE_AMBINANINDRANOTELO</SimpleData>
+		<SimpleData name="lon">47.55385</SimpleData>
+		<SimpleData name="lat">-21.45025</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.55385,-21.45025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ankaboka</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">64</SimpleData>
+		<SimpleData name="new_commun">AMBIABE</SimpleData>
+		<SimpleData name="old_commun">IFANADIANA</SimpleData>
+		<SimpleData name="comm_fkt">AMBIABE_ANKABOKA</SimpleData>
+		<SimpleData name="lon">47.58083</SimpleData>
+		<SimpleData name="lat">-21.4004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.58083,-21.4004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambiabe I</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">65</SimpleData>
+		<SimpleData name="new_commun">AMBIABE</SimpleData>
+		<SimpleData name="old_commun">IFANADIANA</SimpleData>
+		<SimpleData name="comm_fkt">AMBIABE_AMBIABE I</SimpleData>
+		<SimpleData name="lon">47.59738</SimpleData>
+		<SimpleData name="lat">-21.39395</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.59738,-21.39395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Anivorano</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">66</SimpleData>
+		<SimpleData name="new_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="old_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="comm_fkt">ANDRORANGAVOLA_ANIVORANO</SimpleData>
+		<SimpleData name="lon">47.75517</SimpleData>
+		<SimpleData name="lat">-21.53587</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.75517,-21.53587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Lavakianja Sud</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">67</SimpleData>
+		<SimpleData name="new_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="old_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="comm_fkt">ANDRORANGAVOLA_LAVAKIANJA SUD</SimpleData>
+		<SimpleData name="lon">47.66715</SimpleData>
+		<SimpleData name="lat">-21.5644</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.66715,-21.5644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambodiara Nord</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">68</SimpleData>
+		<SimpleData name="new_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="old_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="comm_fkt">ANDRORANGAVOLA_AMBODIARA NORD</SimpleData>
+		<SimpleData name="lon">47.71533</SimpleData>
+		<SimpleData name="lat">-21.4394</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.71533,-21.4394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Sahavatana</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">69</SimpleData>
+		<SimpleData name="new_commun">AMBIABE</SimpleData>
+		<SimpleData name="old_commun">KELILALINA</SimpleData>
+		<SimpleData name="comm_fkt">AMBIABE_SAHAVATANA</SimpleData>
+		<SimpleData name="lon">47.54122</SimpleData>
+		<SimpleData name="lat">-21.38957</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.54122,-21.38957</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambodivoangy Kelilalina</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">70</SimpleData>
+		<SimpleData name="new_commun">KELILALINA</SimpleData>
+		<SimpleData name="old_commun">KELILALINA</SimpleData>
+		<SimpleData name="comm_fkt">KELILALINA_AMBODIVOANGY</SimpleData>
+		<SimpleData name="lon">47.54885</SimpleData>
+		<SimpleData name="lat">-21.21339</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.54885,-21.21339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ampasimpotsy</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">71</SimpleData>
+		<SimpleData name="new_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="old_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="comm_fkt">ANDRORANGAVOLA_AMPASIMPOTSY</SimpleData>
+		<SimpleData name="lon">47.70543</SimpleData>
+		<SimpleData name="lat">-21.47768</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.70543,-21.47768</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambalatabaka</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">72</SimpleData>
+		<SimpleData name="new_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="old_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="comm_fkt">ANDRORANGAVOLA_AMBALATABAKA</SimpleData>
+		<SimpleData name="lon">47.70988</SimpleData>
+		<SimpleData name="lat">-21.54065</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.70988,-21.54065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambohimisafy</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">73</SimpleData>
+		<SimpleData name="new_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="old_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="comm_fkt">ANDRORANGAVOLA_AMBOHIMISAFY</SimpleData>
+		<SimpleData name="lon">47.69775</SimpleData>
+		<SimpleData name="lat">-21.53607</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.69775,-21.53607</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambohinihaonana</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">74</SimpleData>
+		<SimpleData name="new_commun">TSARATANANA</SimpleData>
+		<SimpleData name="old_commun">TSARATANANA</SimpleData>
+		<SimpleData name="comm_fkt">TSARATANANA_AMBOHINIHAONANA</SimpleData>
+		<SimpleData name="lon">47.67747</SimpleData>
+		<SimpleData name="lat">-21.1248</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.67747,-21.1248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambatoharanana</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">75</SimpleData>
+		<SimpleData name="new_commun">TSARATANANA</SimpleData>
+		<SimpleData name="old_commun">TSARATANANA</SimpleData>
+		<SimpleData name="comm_fkt">TSARATANANA_AMBATOHARANANA</SimpleData>
+		<SimpleData name="lon">47.73072</SimpleData>
+		<SimpleData name="lat">-21.17385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.73072,-21.17385</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Sandrakely</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">76</SimpleData>
+		<SimpleData name="new_commun">TSARATANANA</SimpleData>
+		<SimpleData name="old_commun">TSARATANANA</SimpleData>
+		<SimpleData name="comm_fkt">TSARATANANA_SANDRAKELY</SimpleData>
+		<SimpleData name="lon">47.64273</SimpleData>
+		<SimpleData name="lat">-21.12648</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.64273,-21.12648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambodimanga Est</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">77</SimpleData>
+		<SimpleData name="new_commun">TSARATANANA</SimpleData>
+		<SimpleData name="old_commun">TSARATANANA</SimpleData>
+		<SimpleData name="comm_fkt">TSARATANANA_AMBODIMANGA EST</SimpleData>
+		<SimpleData name="lon">47.69343</SimpleData>
+		<SimpleData name="lat">-21.25455</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.69343,-21.25455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site Communautaire Sahafitoroka</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">78</SimpleData>
+		<SimpleData name="new_commun">IFANADIANA</SimpleData>
+		<SimpleData name="old_commun">IFANADIANA</SimpleData>
+		<SimpleData name="comm_fkt">IFANADIANA_SAHAFITOROKA</SimpleData>
+		<SimpleData name="lon">47.6877</SimpleData>
+		<SimpleData name="lat">-21.28344</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.6877,-21.28344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Maromena</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">79</SimpleData>
+		<SimpleData name="new_commun">IFANADIANA</SimpleData>
+		<SimpleData name="old_commun">IFANADIANA</SimpleData>
+		<SimpleData name="comm_fkt">IFANADIANA_MAROMENA</SimpleData>
+		<SimpleData name="lon">47.632</SimpleData>
+		<SimpleData name="lat">-21.27327</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.632,-21.27327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambalavaona</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">80</SimpleData>
+		<SimpleData name="new_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="old_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="comm_fkt">ANDRORANGAVOLA_AMBALAVAONA</SimpleData>
+		<SimpleData name="lon">47.65482</SimpleData>
+		<SimpleData name="lat">-21.52282</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.65482,-21.52282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambohimahavelona Betoho</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">81</SimpleData>
+		<SimpleData name="new_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="old_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="comm_fkt">ANDRORANGAVOLA_AMBOHIMAHAVELONA BETOHO</SimpleData>
+		<SimpleData name="lon">47.61127</SimpleData>
+		<SimpleData name="lat">-21.52187</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.61127,-21.52187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Nosibe Sud</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">82</SimpleData>
+		<SimpleData name="new_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="old_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="comm_fkt">ANDRORANGAVOLA_NOSIBE SUD</SimpleData>
+		<SimpleData name="lon">47.65875</SimpleData>
+		<SimpleData name="lat">-21.48822</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.65875,-21.48822</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Mandriapotsy</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">83</SimpleData>
+		<SimpleData name="new_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="old_commun">ANDRORANGAVOLA</SimpleData>
+		<SimpleData name="comm_fkt">ANDRORANGAVOLA_MANDRIAPOTSY</SimpleData>
+		<SimpleData name="lon">47.65877</SimpleData>
+		<SimpleData name="lat">-21.50002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.65877,-21.50002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Antaralava</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">84</SimpleData>
+		<SimpleData name="new_commun">TSARATANANA</SimpleData>
+		<SimpleData name="old_commun">TSARATANANA</SimpleData>
+		<SimpleData name="comm_fkt">TSARATANANA_ANTARALAVA</SimpleData>
+		<SimpleData name="lon">47.58625</SimpleData>
+		<SimpleData name="lat">-21.1928</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.58625,-21.1928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambohimita</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">85</SimpleData>
+		<SimpleData name="new_commun">TSARATANANA</SimpleData>
+		<SimpleData name="old_commun">TSARATANANA</SimpleData>
+		<SimpleData name="comm_fkt">TSARATANANA_AMBOHIMITA</SimpleData>
+		<SimpleData name="lon">47.61238</SimpleData>
+		<SimpleData name="lat">-21.05058</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.61238,-21.05058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Sandrasaty</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">86</SimpleData>
+		<SimpleData name="new_commun">TSARATANANA</SimpleData>
+		<SimpleData name="old_commun">TSARATANANA</SimpleData>
+		<SimpleData name="comm_fkt">TSARATANANA_SANDRASATY</SimpleData>
+		<SimpleData name="lon">47.64175</SimpleData>
+		<SimpleData name="lat">-21.0006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.64175,-21.0006</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ranomafana</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">87</SimpleData>
+		<SimpleData name="new_commun">RANOMAFANA</SimpleData>
+		<SimpleData name="old_commun">RANOMAFANA</SimpleData>
+		<SimpleData name="comm_fkt">RANOMAFANA_RANOMAFANA</SimpleData>
+		<SimpleData name="lon">47.45694</SimpleData>
+		<SimpleData name="lat">-21.26412</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.45694,-21.26412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambatolahy</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">88</SimpleData>
+		<SimpleData name="new_commun">RANOMAFANA</SimpleData>
+		<SimpleData name="old_commun">RANOMAFANA</SimpleData>
+		<SimpleData name="comm_fkt">RANOMAFANA_AMBATOLAHY</SimpleData>
+		<SimpleData name="lon">47.44481</SimpleData>
+		<SimpleData name="lat">-21.25268</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.44481,-21.25268</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Tsaramandroso</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">89</SimpleData>
+		<SimpleData name="new_commun">RANOMAFANA</SimpleData>
+		<SimpleData name="old_commun">RANOMAFANA</SimpleData>
+		<SimpleData name="comm_fkt">RANOMAFANA_TSARAMANDROSO</SimpleData>
+		<SimpleData name="lon">47.50631</SimpleData>
+		<SimpleData name="lat">-21.2257</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.50631,-21.2257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Vohimarina</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">90</SimpleData>
+		<SimpleData name="new_commun">RANOMAFANA</SimpleData>
+		<SimpleData name="old_commun">RANOMAFANA</SimpleData>
+		<SimpleData name="comm_fkt">RANOMAFANA_VOHIMARINA</SimpleData>
+		<SimpleData name="lon">47.47645</SimpleData>
+		<SimpleData name="lat">-21.38391</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.47645,-21.38391</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Malazamasina Sud</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">91</SimpleData>
+		<SimpleData name="new_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="old_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="comm_fkt">MAROHARATRA_MALAZAMASINA SUD</SimpleData>
+		<SimpleData name="lon">47.8147</SimpleData>
+		<SimpleData name="lat">-20.8276</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.8147,-20.8276</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Malazamasina Nord</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">92</SimpleData>
+		<SimpleData name="new_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="old_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="comm_fkt">MAROHARATRA_MALAZAMASINA NORD</SimpleData>
+		<SimpleData name="lon">47.76928</SimpleData>
+		<SimpleData name="lat">-20.6323</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.76928,-20.6323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Antanjomanga</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">93</SimpleData>
+		<SimpleData name="new_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="old_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="comm_fkt">MAROHARATRA_ANTANJOMANGA</SimpleData>
+		<SimpleData name="lon">47.76602</SimpleData>
+		<SimpleData name="lat">-20.6587</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.76602,-20.6587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Betampona Nord</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">94</SimpleData>
+		<SimpleData name="new_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="old_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="comm_fkt">MAROHARATRA_BETAMPONA NORD</SimpleData>
+		<SimpleData name="lon">47.76963</SimpleData>
+		<SimpleData name="lat">-20.69237</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.76963,-20.69237</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Masoarovana</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">95</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMANGA DU SUD_MASOAROVANA</SimpleData>
+		<SimpleData name="lon">47.60657</SimpleData>
+		<SimpleData name="lat">-20.89807</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.60657,-20.89807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambilanibe</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">96</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMANGA DU SUD_AMBILANIBE</SimpleData>
+		<SimpleData name="lon">47.64895</SimpleData>
+		<SimpleData name="lat">-20.89407</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.64895,-20.89407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambaladingana</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">97</SimpleData>
+		<SimpleData name="new_commun">KELILALINA</SimpleData>
+		<SimpleData name="old_commun">KELILALINA</SimpleData>
+		<SimpleData name="comm_fkt">KELILALINA_AMBALADINGANA</SimpleData>
+		<SimpleData name="lon">47.53538</SimpleData>
+		<SimpleData name="lat">-21.38023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.53538,-21.38023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambohimiranty</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">98</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMANGA DU SUD_AMBOHIMIRANTY</SimpleData>
+		<SimpleData name="lon">47.58265</SimpleData>
+		<SimpleData name="lat">-20.8474</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.58265,-20.8474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Andranomaintso</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">99</SimpleData>
+		<SimpleData name="new_commun">FASINTSARA</SimpleData>
+		<SimpleData name="old_commun">FASINTSARA</SimpleData>
+		<SimpleData name="comm_fkt">FASINTSARA_ANDRANOMAINTSO</SimpleData>
+		<SimpleData name="lon">47.71238</SimpleData>
+		<SimpleData name="lat">-20.84197</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.71238,-20.84197</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Fiadanana Nord Fasintsara</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">100</SimpleData>
+		<SimpleData name="new_commun">AMPASINAMBO</SimpleData>
+		<SimpleData name="old_commun">FASINTSARA</SimpleData>
+		<SimpleData name="comm_fkt">AMPASINAMBO_FIADANANA NORD</SimpleData>
+		<SimpleData name="lon">47.70072</SimpleData>
+		<SimpleData name="lat">-20.56885</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.70072,-20.56885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CSB2 Maroharatra</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">101</SimpleData>
+		<SimpleData name="new_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="old_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="comm_fkt">MAROHARATRA_MAROHARATRA</SimpleData>
+		<SimpleData name="lon">47.76899</SimpleData>
+		<SimpleData name="lat">-20.73274</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.76899,-20.73274</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Kianjavato</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">102</SimpleData>
+		<SimpleData name="new_commun">ANTSINDRA</SimpleData>
+		<SimpleData name="old_commun">ANTSINDRA</SimpleData>
+		<SimpleData name="comm_fkt">ANTSINDRA_KIANJAVATO</SimpleData>
+		<SimpleData name="lon">47.73413</SimpleData>
+		<SimpleData name="lat">-20.91643</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.73413,-20.91643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambatovory</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">103</SimpleData>
+		<SimpleData name="new_commun">ANTSINDRA</SimpleData>
+		<SimpleData name="old_commun">ANTSINDRA</SimpleData>
+		<SimpleData name="comm_fkt">ANTSINDRA_AMBATOVORY</SimpleData>
+		<SimpleData name="lon">47.76495</SimpleData>
+		<SimpleData name="lat">-20.93877</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.76495,-20.93877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CSB2 Antsindra</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">104</SimpleData>
+		<SimpleData name="new_commun">ANTSINDRA</SimpleData>
+		<SimpleData name="old_commun">ANTSINDRA</SimpleData>
+		<SimpleData name="comm_fkt">ANTSINDRA_ANTSINDRA</SimpleData>
+		<SimpleData name="lon">47.73525</SimpleData>
+		<SimpleData name="lat">-20.98725</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.73525,-20.98725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Befotaka</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">105</SimpleData>
+		<SimpleData name="new_commun">ANTSINDRA</SimpleData>
+		<SimpleData name="old_commun">ANTSINDRA</SimpleData>
+		<SimpleData name="comm_fkt">ANTSINDRA_BEFOTAKA</SimpleData>
+		<SimpleData name="lon">47.79785</SimpleData>
+		<SimpleData name="lat">-20.9747</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.79785,-20.9747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ampitambe</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">106</SimpleData>
+		<SimpleData name="new_commun">ANTSINDRA</SimpleData>
+		<SimpleData name="old_commun">ANTSINDRA</SimpleData>
+		<SimpleData name="comm_fkt">ANTSINDRA_AMPITABE</SimpleData>
+		<SimpleData name="lon">47.78555</SimpleData>
+		<SimpleData name="lat">-21.05322</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.78555,-21.05322</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Mandroalina</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">107</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMANGA DU SUD_MANDROALINA</SimpleData>
+		<SimpleData name="lon">47.60183</SimpleData>
+		<SimpleData name="lat">-20.85877</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.60183,-20.85877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Morarano</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">108</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMANGA DU SUD_MORARANO</SimpleData>
+		<SimpleData name="lon">47.62733</SimpleData>
+		<SimpleData name="lat">-20.84898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.62733,-20.84898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CSB2 Ambohimanga du Sud</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">109</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMANGA DU SUD_AMBOHIMANGA SUD</SimpleData>
+		<SimpleData name="lon">47.59307</SimpleData>
+		<SimpleData name="lat">-20.87739</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.59307,-20.87739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Sahamarana</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">110</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMANGA DU SUD_SAHAMARANA</SimpleData>
+		<SimpleData name="lon">47.60328</SimpleData>
+		<SimpleData name="lat">-20.88123</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.60328,-20.88123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambodimanga Nord</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">111</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMANGA DU SUD_AMBODIMANGA NORD</SimpleData>
+		<SimpleData name="lon">47.60833</SimpleData>
+		<SimpleData name="lat">-20.76832</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.60833,-20.76832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Vohitrarivo</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">112</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMANGA DU SUD_VOHITRARIVO</SimpleData>
+		<SimpleData name="lon">47.64483</SimpleData>
+		<SimpleData name="lat">-20.75198</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.64483,-20.75198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambohimalaza</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">113</SimpleData>
+		<SimpleData name="new_commun">ANALAMPASINA</SimpleData>
+		<SimpleData name="old_commun">ANALAMPASINA</SimpleData>
+		<SimpleData name="comm_fkt">ANALAMPASINA_AMBOHIMALAZA</SimpleData>
+		<SimpleData name="lon">47.56143</SimpleData>
+		<SimpleData name="lat">-20.86483</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.56143,-20.86483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Manjiriana Sud</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">114</SimpleData>
+		<SimpleData name="new_commun">ANALAMPASINA</SimpleData>
+		<SimpleData name="old_commun">ANALAMPASINA</SimpleData>
+		<SimpleData name="comm_fkt">ANALAMPASINA_MANJIRIANA SUD</SimpleData>
+		<SimpleData name="lon">47.49708</SimpleData>
+		<SimpleData name="lat">-20.88647</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.49708,-20.88647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Antenimbelona</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">115</SimpleData>
+		<SimpleData name="new_commun">FASINTSARA</SimpleData>
+		<SimpleData name="old_commun">FASINTSARA</SimpleData>
+		<SimpleData name="comm_fkt">FASINTSARA_ANTENIMBELONA</SimpleData>
+		<SimpleData name="lon">47.72375</SimpleData>
+		<SimpleData name="lat">-20.67363</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.72375,-20.67363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambohinihaonana Fasintsara</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">116</SimpleData>
+		<SimpleData name="new_commun">FASINTSARA</SimpleData>
+		<SimpleData name="old_commun">FASINTSARA</SimpleData>
+		<SimpleData name="comm_fkt">FASINTSARA_AMBOHINIHAONANA</SimpleData>
+		<SimpleData name="lon">47.70768</SimpleData>
+		<SimpleData name="lat">-20.68578</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.70768,-20.68578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Marovoraka</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">117</SimpleData>
+		<SimpleData name="new_commun">FASINTSARA</SimpleData>
+		<SimpleData name="old_commun">FASINTSARA</SimpleData>
+		<SimpleData name="comm_fkt">FASINTSARA_MAROVORAKA</SimpleData>
+		<SimpleData name="lon">47.66298</SimpleData>
+		<SimpleData name="lat">-20.68263</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.66298,-20.68263</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambatomanjaka</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">118</SimpleData>
+		<SimpleData name="new_commun">FASINTSARA</SimpleData>
+		<SimpleData name="old_commun">FASINTSARA</SimpleData>
+		<SimpleData name="comm_fkt">FASINTSARA_AMBATOMANJAKA</SimpleData>
+		<SimpleData name="lon">47.6959</SimpleData>
+		<SimpleData name="lat">-20.73263</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.6959,-20.73263</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Tsarakianja</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">119</SimpleData>
+		<SimpleData name="new_commun">FASINTSARA</SimpleData>
+		<SimpleData name="old_commun">FASINTSARA</SimpleData>
+		<SimpleData name="comm_fkt">FASINTSARA_TSARAKIANJA</SimpleData>
+		<SimpleData name="lon">47.65993</SimpleData>
+		<SimpleData name="lat">-20.73872</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.65993,-20.73872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambolo</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">120</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMIERA_AMBOLO</SimpleData>
+		<SimpleData name="lon">47.50732</SimpleData>
+		<SimpleData name="lat">-20.90098</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.50732,-20.90098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambinanitomarosana</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">121</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMIERA_AMBINANITOMAROSANA</SimpleData>
+		<SimpleData name="lon">47.51688</SimpleData>
+		<SimpleData name="lat">-20.90807</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.51688,-20.90807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambohidaza</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">122</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMIERA_AMBOHIDAZA</SimpleData>
+		<SimpleData name="lon">47.43607</SimpleData>
+		<SimpleData name="lat">-20.9703</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.43607,-20.9703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chef lieu de fokontany Ampantsona</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">123</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMIERA_AMPANTSONA</SimpleData>
+		<SimpleData name="lon">47.4062</SimpleData>
+		<SimpleData name="lat">-21.02742</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.4062,-21.02742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chef lieu de fokontany Ambohimilanja</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">124</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMIERA_AMBOHIMILANJA</SimpleData>
+		<SimpleData name="lon">47.43725</SimpleData>
+		<SimpleData name="lat">-21.0668</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.43725,-21.0668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambohimahavelona</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">125</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMIERA_AMBOHIMAHAVELONA</SimpleData>
+		<SimpleData name="lon">47.53793</SimpleData>
+		<SimpleData name="lat">-20.92565</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.53793,-20.92565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Morarano Fasintsara</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">126</SimpleData>
+		<SimpleData name="new_commun">AMPASINAMBO</SimpleData>
+		<SimpleData name="old_commun">FASINTSARA</SimpleData>
+		<SimpleData name="comm_fkt">AMPASINAMBO_MORARANO</SimpleData>
+		<SimpleData name="lon">47.71692</SimpleData>
+		<SimpleData name="lat">-20.61057</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.71692,-20.61057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ampasimbola I</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">127</SimpleData>
+		<SimpleData name="new_commun">AMPASINAMBO</SimpleData>
+		<SimpleData name="old_commun">FASINTSARA</SimpleData>
+		<SimpleData name="comm_fkt">AMPASINAMBO_AMPASIMBOLA I</SimpleData>
+		<SimpleData name="lon">47.70132</SimpleData>
+		<SimpleData name="lat">-20.62505</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.70132,-20.62505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Sakavanana</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">128</SimpleData>
+		<SimpleData name="new_commun">AMPASINAMBO</SimpleData>
+		<SimpleData name="old_commun">FASINTSARA</SimpleData>
+		<SimpleData name="comm_fkt">AMPASINAMBO_SAKAVANANA</SimpleData>
+		<SimpleData name="lon">47.70445</SimpleData>
+		<SimpleData name="lat">-20.63608</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.70445,-20.63608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambodiara Nord Fasintsara</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">129</SimpleData>
+		<SimpleData name="new_commun">AMPASINAMBO</SimpleData>
+		<SimpleData name="old_commun">FASINTSARA</SimpleData>
+		<SimpleData name="comm_fkt">AMPASINAMBO_AMBODIARA NORD</SimpleData>
+		<SimpleData name="lon">47.70128</SimpleData>
+		<SimpleData name="lat">-20.62775</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.70128,-20.62775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Marosatroka</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">130</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMANGA DU SUD_MAROSATROKA</SimpleData>
+		<SimpleData name="lon">47.62447</SimpleData>
+		<SimpleData name="lat">-20.94877</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.62447,-20.94877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Androrangavola Nord</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">131</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMANGA DU SUD_ANDRORANGAVOLA NORD</SimpleData>
+		<SimpleData name="lon">47.57883</SimpleData>
+		<SimpleData name="lat">-20.78928</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.57883,-20.78928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambinanivatomena</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">132</SimpleData>
+		<SimpleData name="new_commun">ANTARETRA</SimpleData>
+		<SimpleData name="old_commun">ANTARETRA</SimpleData>
+		<SimpleData name="comm_fkt">ANTARETRA_AMBINANIVATOMENA</SimpleData>
+		<SimpleData name="lon">47.78909</SimpleData>
+		<SimpleData name="lat">-21.24989</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.78909,-21.24989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambodiara I</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">133</SimpleData>
+		<SimpleData name="new_commun">ANTARETRA</SimpleData>
+		<SimpleData name="old_commun">ANTARETRA</SimpleData>
+		<SimpleData name="comm_fkt">ANTARETRA_AMBODIARA I</SimpleData>
+		<SimpleData name="lon">47.76945</SimpleData>
+		<SimpleData name="lat">-21.26427</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.76945,-21.26427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Morafeno</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">134</SimpleData>
+		<SimpleData name="new_commun">ANTARETRA</SimpleData>
+		<SimpleData name="old_commun">ANTARETRA</SimpleData>
+		<SimpleData name="comm_fkt">ANTARETRA_MORAFENO</SimpleData>
+		<SimpleData name="lon">47.75001</SimpleData>
+		<SimpleData name="lat">-21.29931</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.75001,-21.29931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Betampona</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">135</SimpleData>
+		<SimpleData name="new_commun">ANTARETRA</SimpleData>
+		<SimpleData name="old_commun">ANTARETRA</SimpleData>
+		<SimpleData name="comm_fkt">ANTARETRA_BETAMPONA</SimpleData>
+		<SimpleData name="lon">47.77335</SimpleData>
+		<SimpleData name="lat">-21.29743</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.77335,-21.29743</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Andranomaitso</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">136</SimpleData>
+		<SimpleData name="new_commun">ANTARETRA</SimpleData>
+		<SimpleData name="old_commun">ANTARETRA</SimpleData>
+		<SimpleData name="comm_fkt">ANTARETRA_ANDRANOMAITSO</SimpleData>
+		<SimpleData name="lon">47.7562</SimpleData>
+		<SimpleData name="lat">-21.34378</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.7562,-21.34378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CSB2 Antaretra</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">137</SimpleData>
+		<SimpleData name="new_commun">ANTARETRA</SimpleData>
+		<SimpleData name="old_commun">ANTARETRA</SimpleData>
+		<SimpleData name="comm_fkt">ANTARETRA_ANTARETRA</SimpleData>
+		<SimpleData name="lon">47.778</SimpleData>
+		<SimpleData name="lat">-21.35595</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.778,-21.35595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Antanifotsy</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">138</SimpleData>
+		<SimpleData name="new_commun">IFANADIANA</SimpleData>
+		<SimpleData name="old_commun">IFANADIANA</SimpleData>
+		<SimpleData name="comm_fkt">IFANADIANA_IFANADIANA</SimpleData>
+		<SimpleData name="lon">47.63853</SimpleData>
+		<SimpleData name="lat">-21.29191</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.63853,-21.29191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Andranofolahana</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">139</SimpleData>
+		<SimpleData name="new_commun">IFANADIANA</SimpleData>
+		<SimpleData name="old_commun">IFANADIANA</SimpleData>
+		<SimpleData name="comm_fkt">IFANADIANA_ANDRANOFOLAHINA</SimpleData>
+		<SimpleData name="lon">47.5843</SimpleData>
+		<SimpleData name="lat">-21.29635</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.5843,-21.29635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Amboraka</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">140</SimpleData>
+		<SimpleData name="new_commun">IFANADIANA</SimpleData>
+		<SimpleData name="old_commun">IFANADIANA</SimpleData>
+		<SimpleData name="comm_fkt">IFANADIANA_AMBORAKA</SimpleData>
+		<SimpleData name="lon">47.62092</SimpleData>
+		<SimpleData name="lat">-21.31847</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.62092,-21.31847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambodirafia II</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">141</SimpleData>
+		<SimpleData name="new_commun">IFANADIANA</SimpleData>
+		<SimpleData name="old_commun">IFANADIANA</SimpleData>
+		<SimpleData name="comm_fkt">IFANADIANA_AMBODIRAFIA II</SimpleData>
+		<SimpleData name="lon">47.69402</SimpleData>
+		<SimpleData name="lat">-21.3419</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.69402,-21.3419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Fenoarivo I</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">142</SimpleData>
+		<SimpleData name="new_commun">IFANADIANA</SimpleData>
+		<SimpleData name="old_commun">IFANADIANA</SimpleData>
+		<SimpleData name="comm_fkt">IFANADIANA_FENOARIVO I</SimpleData>
+		<SimpleData name="lon">47.64723</SimpleData>
+		<SimpleData name="lat">-21.4132</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.64723,-21.4132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CSB2 Ambohimiera</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">143</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMIERA_AMBOHIMIERA</SimpleData>
+		<SimpleData name="lon">47.51</SimpleData>
+		<SimpleData name="lat">-21.05765</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.51,-21.05765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Maromanana</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">144</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMIERA_MAROMANANA</SimpleData>
+		<SimpleData name="lon">47.48808</SimpleData>
+		<SimpleData name="lat">-20.88448</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.48808,-20.88448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Tanambao Ouest</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">145</SimpleData>
+		<SimpleData name="new_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="old_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="comm_fkt">MAROHARATRA_TANAMBAO OUEST</SimpleData>
+		<SimpleData name="lon">47.75578</SimpleData>
+		<SimpleData name="lat">-20.72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.75578,-20.72</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Mahavonjy Menarano</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">146</SimpleData>
+		<SimpleData name="new_commun">RANOMAFANA</SimpleData>
+		<SimpleData name="old_commun">RANOMAFANA</SimpleData>
+		<SimpleData name="comm_fkt">RANOMAFANA_MENARANO</SimpleData>
+		<SimpleData name="lon">47.46911</SimpleData>
+		<SimpleData name="lat">-21.29007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.46911,-21.29007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambodiaviavy</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">147</SimpleData>
+		<SimpleData name="new_commun">RANOMAFANA</SimpleData>
+		<SimpleData name="old_commun">RANOMAFANA</SimpleData>
+		<SimpleData name="comm_fkt">RANOMAFANA_AMBODIAVIAVY</SimpleData>
+		<SimpleData name="lon">47.48426</SimpleData>
+		<SimpleData name="lat">-21.26424</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.48426,-21.26424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ampasimpotsy Ranomafana</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">148</SimpleData>
+		<SimpleData name="new_commun">RANOMAFANA</SimpleData>
+		<SimpleData name="old_commun">RANOMAFANA</SimpleData>
+		<SimpleData name="comm_fkt">RANOMAFANA_AMPASIMPOTSY</SimpleData>
+		<SimpleData name="lon">47.50808</SimpleData>
+		<SimpleData name="lat">-21.29429</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.50808,-21.29429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Sahandrazana</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">149</SimpleData>
+		<SimpleData name="new_commun">RANOMAFANA</SimpleData>
+		<SimpleData name="old_commun">RANOMAFANA</SimpleData>
+		<SimpleData name="comm_fkt">RANOMAFANA_SAHANDRAZANA</SimpleData>
+		<SimpleData name="lon">47.496</SimpleData>
+		<SimpleData name="lat">-21.4204</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.496,-21.4204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Sahomby</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">150</SimpleData>
+		<SimpleData name="new_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="old_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="comm_fkt">MAROHARATRA_SAHOMBY</SimpleData>
+		<SimpleData name="lon">47.7517</SimpleData>
+		<SimpleData name="lat">-20.83502</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.7517,-20.83502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambodimanga Maroharatra</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">151</SimpleData>
+		<SimpleData name="new_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="old_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="comm_fkt">MAROHARATRA_AMBODIMANGA</SimpleData>
+		<SimpleData name="lon">47.86823</SimpleData>
+		<SimpleData name="lat">-20.73655</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.86823,-20.73655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ampasimadinika</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">152</SimpleData>
+		<SimpleData name="new_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="old_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="comm_fkt">MAROHARATRA_AMPASIMADINIKA</SimpleData>
+		<SimpleData name="lon">47.80272</SimpleData>
+		<SimpleData name="lat">-20.77303</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.80272,-20.77303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambaro</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">153</SimpleData>
+		<SimpleData name="new_commun">ANALAMPASINA</SimpleData>
+		<SimpleData name="old_commun">ANALAMPASINA</SimpleData>
+		<SimpleData name="comm_fkt">ANALAMPASINA_AMBARO</SimpleData>
+		<SimpleData name="lon">47.45885</SimpleData>
+		<SimpleData name="lat">-20.86155</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.45885,-20.86155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Androrangavola Sud</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">154</SimpleData>
+		<SimpleData name="new_commun">ANALAMPASINA</SimpleData>
+		<SimpleData name="old_commun">ANALAMPASINA</SimpleData>
+		<SimpleData name="comm_fkt">ANALAMPASINA_ANDRORANGAVOLA SUD</SimpleData>
+		<SimpleData name="lon">47.52348</SimpleData>
+		<SimpleData name="lat">-20.8156</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.52348,-20.8156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CSB2 Analampasina</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">155</SimpleData>
+		<SimpleData name="new_commun">ANALAMPASINA</SimpleData>
+		<SimpleData name="old_commun">ANALAMPASINA</SimpleData>
+		<SimpleData name="comm_fkt">ANALAMPASINA_ANALAMPASINA</SimpleData>
+		<SimpleData name="lon">47.54605</SimpleData>
+		<SimpleData name="lat">-20.83805</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.54605,-20.83805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambodiara</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">156</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMANGA DU SUD_AMBODIARA</SimpleData>
+		<SimpleData name="lon">47.59005</SimpleData>
+		<SimpleData name="lat">-20.90117</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.59005,-20.90117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CSB2 Marotoko</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">157</SimpleData>
+		<SimpleData name="new_commun">MAROTOKO</SimpleData>
+		<SimpleData name="old_commun">MAROTOKO</SimpleData>
+		<SimpleData name="comm_fkt">MAROTOKO_MAROTOKO</SimpleData>
+		<SimpleData name="lon">47.76253</SimpleData>
+		<SimpleData name="lat">-21.59627</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.76253,-21.59627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambalavia</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">158</SimpleData>
+		<SimpleData name="new_commun">MAROTOKO</SimpleData>
+		<SimpleData name="old_commun">MAROTOKO</SimpleData>
+		<SimpleData name="comm_fkt">MAROTOKO_AMBALAVIA</SimpleData>
+		<SimpleData name="lon">47.64893</SimpleData>
+		<SimpleData name="lat">-21.55933</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.64893,-21.55933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambatomitratraka</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">159</SimpleData>
+		<SimpleData name="new_commun">MAROTOKO</SimpleData>
+		<SimpleData name="old_commun">MAROTOKO</SimpleData>
+		<SimpleData name="comm_fkt">MAROTOKO_AMBATOMITRATRAKA</SimpleData>
+		<SimpleData name="lon">47.6236</SimpleData>
+		<SimpleData name="lat">-21.6097</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.6236,-21.6097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambarijatsy</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">160</SimpleData>
+		<SimpleData name="new_commun">MAROTOKO</SimpleData>
+		<SimpleData name="old_commun">MAROTOKO</SimpleData>
+		<SimpleData name="comm_fkt">MAROTOKO_AMBARIJATSY</SimpleData>
+		<SimpleData name="lon">47.64895</SimpleData>
+		<SimpleData name="lat">-21.578</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.64895,-21.578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambohimahavelona Marotoko</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">161</SimpleData>
+		<SimpleData name="new_commun">MAROTOKO</SimpleData>
+		<SimpleData name="old_commun">MAROTOKO</SimpleData>
+		<SimpleData name="comm_fkt">MAROTOKO_AMBOHIMAHAVELONA</SimpleData>
+		<SimpleData name="lon">47.64428</SimpleData>
+		<SimpleData name="lat">-21.61947</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.64428,-21.61947</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambodiara Ifanadiana</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">162</SimpleData>
+		<SimpleData name="new_commun">IFANADIANA</SimpleData>
+		<SimpleData name="old_commun">IFANADIANA</SimpleData>
+		<SimpleData name="comm_fkt">IFANADIANA_AMBODIARA</SimpleData>
+		<SimpleData name="lon">47.64647</SimpleData>
+		<SimpleData name="lat">-21.38112</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.64647,-21.38112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Analamarina</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">163</SimpleData>
+		<SimpleData name="new_commun">TSARATANANA</SimpleData>
+		<SimpleData name="old_commun">TSARATANANA</SimpleData>
+		<SimpleData name="comm_fkt">TSARATANANA_ANALAMARINA</SimpleData>
+		<SimpleData name="lon">47.64862</SimpleData>
+		<SimpleData name="lat">-21.04468</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.64862,-21.04468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambalafatakana Est</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">164</SimpleData>
+		<SimpleData name="new_commun">TSARATANANA</SimpleData>
+		<SimpleData name="old_commun">TSARATANANA</SimpleData>
+		<SimpleData name="comm_fkt">TSARATANANA_AMBALAFATAKANA EST</SimpleData>
+		<SimpleData name="lon">47.78967</SimpleData>
+		<SimpleData name="lat">-21.0573</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.78967,-21.0573</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambalafary</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">165</SimpleData>
+		<SimpleData name="new_commun">TSARATANANA</SimpleData>
+		<SimpleData name="old_commun">TSARATANANA</SimpleData>
+		<SimpleData name="comm_fkt">TSARATANANA_AMBALAFARY</SimpleData>
+		<SimpleData name="lon">47.81145</SimpleData>
+		<SimpleData name="lat">-21.12168</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.81145,-21.12168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Marofototra</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">166</SimpleData>
+		<SimpleData name="new_commun">TSARATANANA</SimpleData>
+		<SimpleData name="old_commun">TSARATANANA</SimpleData>
+		<SimpleData name="comm_fkt">TSARATANANA_MAROFOTOTRA</SimpleData>
+		<SimpleData name="lon">47.70172</SimpleData>
+		<SimpleData name="lat">-21.04558</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.70172,-21.04558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambohimasina</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">167</SimpleData>
+		<SimpleData name="new_commun">TSARATANANA</SimpleData>
+		<SimpleData name="old_commun">TSARATANANA</SimpleData>
+		<SimpleData name="comm_fkt">TSARATANANA_AMBOHIMASINA</SimpleData>
+		<SimpleData name="lon">47.74725</SimpleData>
+		<SimpleData name="lat">-21.0907</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.74725,-21.0907</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Befary</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">168</SimpleData>
+		<SimpleData name="new_commun">TSARATANANA</SimpleData>
+		<SimpleData name="old_commun">TSARATANANA</SimpleData>
+		<SimpleData name="comm_fkt">TSARATANANA_BEFARY</SimpleData>
+		<SimpleData name="lon">47.79047</SimpleData>
+		<SimpleData name="lat">-21.14573</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.79047,-21.14573</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Variampo</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">169</SimpleData>
+		<SimpleData name="new_commun">TSARATANANA</SimpleData>
+		<SimpleData name="old_commun">TSARATANANA</SimpleData>
+		<SimpleData name="comm_fkt">TSARATANANA_AMBATOHARANANAKELY</SimpleData>
+		<SimpleData name="lon">47.77269</SimpleData>
+		<SimpleData name="lat">-21.19856</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.77269,-21.19856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambohipo</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">170</SimpleData>
+		<SimpleData name="new_commun">TSARATANANA</SimpleData>
+		<SimpleData name="old_commun">TSARATANANA</SimpleData>
+		<SimpleData name="comm_fkt">TSARATANANA_AMBOHIPO</SimpleData>
+		<SimpleData name="lon">47.59478</SimpleData>
+		<SimpleData name="lat">-21.17123</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.59478,-21.17123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Soaniherenana Nord</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">171</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMANGA DU SUD_SOANIHERENANA NORD</SimpleData>
+		<SimpleData name="lon">47.64017</SimpleData>
+		<SimpleData name="lat">-20.79297</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.64017,-20.79297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambalavary</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">172</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMANGA DU SUD_AMBALAVARY</SimpleData>
+		<SimpleData name="lon">47.63283</SimpleData>
+		<SimpleData name="lat">-20.81028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.63283,-20.81028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambohimahatsinjo</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">173</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMIERA_AMBOHIMAHATSINJO</SimpleData>
+		<SimpleData name="lon">47.48585</SimpleData>
+		<SimpleData name="lat">-20.96677</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.48585,-20.96677</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Fiadanana Nord</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">174</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMIERA_FIADANANA NORD</SimpleData>
+		<SimpleData name="lon">47.57103</SimpleData>
+		<SimpleData name="lat">-20.94282</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.57103,-20.94282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambodimanga</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">175</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMIERA_AMBODIMANGA</SimpleData>
+		<SimpleData name="lon">47.61008</SimpleData>
+		<SimpleData name="lat">-20.96153</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.61008,-20.96153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Faliarivo Ambohimiera</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">176</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMIERA</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMIERA_FALIARIVO</SimpleData>
+		<SimpleData name="lon">47.57337</SimpleData>
+		<SimpleData name="lat">-21.00078</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.57337,-21.00078</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Fasintsara Andakana</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">177</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMANGA DU SUD_FASINTSARA ANDAKANA</SimpleData>
+		<SimpleData name="lon">47.66748</SimpleData>
+		<SimpleData name="lat">-20.82547</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.66748,-20.82547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Nosimboahangy</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">178</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMANGA DU SUD_NOSIMBOAHANGY</SimpleData>
+		<SimpleData name="lon">47.66393</SimpleData>
+		<SimpleData name="lat">-20.85878</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.66393,-20.85878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambalaherana</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">179</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMANGA DU SUD_AMBALAHERANA</SimpleData>
+		<SimpleData name="lon">47.64987</SimpleData>
+		<SimpleData name="lat">-20.83985</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.64987,-20.83985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ampasimadinikakely</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">180</SimpleData>
+		<SimpleData name="new_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="old_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="comm_fkt">MAROHARATRA_AMPASIMADINIKAKELY</SimpleData>
+		<SimpleData name="lon">47.73707</SimpleData>
+		<SimpleData name="lat">-20.74817</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.73707,-20.74817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambalavolo</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">181</SimpleData>
+		<SimpleData name="new_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="old_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="comm_fkt">MAROHARATRA_AMBALAVOLO</SimpleData>
+		<SimpleData name="lon">47.83832</SimpleData>
+		<SimpleData name="lat">-20.72982</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.83832,-20.72982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambohitsara Est</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">182</SimpleData>
+		<SimpleData name="new_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="old_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="comm_fkt">MAROHARATRA_AMBOHITSARA EST</SimpleData>
+		<SimpleData name="lon">47.85918</SimpleData>
+		<SimpleData name="lat">-20.78463</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.85918,-20.78463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Anivorano Maroharatra</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">183</SimpleData>
+		<SimpleData name="new_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="old_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="comm_fkt">MAROHARATRA_ANIVORANO</SimpleData>
+		<SimpleData name="lon">47.86495</SimpleData>
+		<SimpleData name="lat">-20.79975</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.86495,-20.79975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Mahatsara</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">184</SimpleData>
+		<SimpleData name="new_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="old_commun">MAROHARATRA</SimpleData>
+		<SimpleData name="comm_fkt">MAROHARATRA_MAHATSARA</SimpleData>
+		<SimpleData name="lon">47.80223</SimpleData>
+		<SimpleData name="lat">-20.79553</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.80223,-20.79553</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Betampo Nord</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">185</SimpleData>
+		<SimpleData name="new_commun">ANALAMPASINA</SimpleData>
+		<SimpleData name="old_commun">ANALAMPASINA</SimpleData>
+		<SimpleData name="comm_fkt">ANALAMPASINA_BETAMPO NORD</SimpleData>
+		<SimpleData name="lon">47.50022</SimpleData>
+		<SimpleData name="lat">-20.79678</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.50022,-20.79678</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambohimiarina</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">186</SimpleData>
+		<SimpleData name="new_commun">ANALAMPASINA</SimpleData>
+		<SimpleData name="old_commun">ANALAMPASINA</SimpleData>
+		<SimpleData name="comm_fkt">ANALAMPASINA_AMBOHIMIARINA</SimpleData>
+		<SimpleData name="lon">47.51223</SimpleData>
+		<SimpleData name="lat">-20.90037</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.51223,-20.90037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Matsitsirano</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">187</SimpleData>
+		<SimpleData name="new_commun">ANALAMPASINA</SimpleData>
+		<SimpleData name="old_commun">ANALAMPASINA</SimpleData>
+		<SimpleData name="comm_fkt">ANALAMPASINA_MATSITSIRANO</SimpleData>
+		<SimpleData name="lon">47.54705</SimpleData>
+		<SimpleData name="lat">-20.76463</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.54705,-20.76463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Fotsialanana</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">188</SimpleData>
+		<SimpleData name="new_commun">KELILALINA</SimpleData>
+		<SimpleData name="old_commun">KELILALINA</SimpleData>
+		<SimpleData name="comm_fkt">KELILALINA_FOTSIALANANA</SimpleData>
+		<SimpleData name="lon">47.5607</SimpleData>
+		<SimpleData name="lat">-21.34338</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.5607,-21.34338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ambodirotra</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">189</SimpleData>
+		<SimpleData name="new_commun">ANTARETRA</SimpleData>
+		<SimpleData name="old_commun">ANTARETRA</SimpleData>
+		<SimpleData name="comm_fkt">ANTARETRA_AMBODIROTRA</SimpleData>
+		<SimpleData name="lon">47.75822</SimpleData>
+		<SimpleData name="lat">-21.37569</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.75822,-21.37569</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Andonabe</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">190</SimpleData>
+		<SimpleData name="new_commun">ANTARETRA</SimpleData>
+		<SimpleData name="old_commun">ANTARETRA</SimpleData>
+		<SimpleData name="comm_fkt">ANTARETRA_ANDONABE</SimpleData>
+		<SimpleData name="lon">47.77949</SimpleData>
+		<SimpleData name="lat">-21.39711</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.77949,-21.39711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ampasimbe</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">191</SimpleData>
+		<SimpleData name="new_commun">ANTARETRA</SimpleData>
+		<SimpleData name="old_commun">ANTARETRA</SimpleData>
+		<SimpleData name="comm_fkt">ANTARETRA_AMPASIMBE</SimpleData>
+		<SimpleData name="lon">47.80286</SimpleData>
+		<SimpleData name="lat">-21.46686</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.80286,-21.46686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Amboatrotroka Antaretra</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">192</SimpleData>
+		<SimpleData name="new_commun">ANTARETRA</SimpleData>
+		<SimpleData name="old_commun">ANTARETRA</SimpleData>
+		<SimpleData name="comm_fkt">ANTARETRA_AMBOATROTROKA</SimpleData>
+		<SimpleData name="lon">47.79147</SimpleData>
+		<SimpleData name="lat">-21.42969</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.79147,-21.42969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Marolananana</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">193</SimpleData>
+		<SimpleData name="new_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="old_commun">AMBOHIMANGA DU SUD</SimpleData>
+		<SimpleData name="comm_fkt">AMBOHIMANGA DU SUD_MAROLANANANA</SimpleData>
+		<SimpleData name="lon">47.59107</SimpleData>
+		<SimpleData name="lat">-20.76145</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.59107,-20.76145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Ampitomita</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">194</SimpleData>
+		<SimpleData name="new_commun">ANTSINDRA</SimpleData>
+		<SimpleData name="old_commun">ANTSINDRA</SimpleData>
+		<SimpleData name="comm_fkt">ANTSINDRA_AMPITOMITA</SimpleData>
+		<SimpleData name="lon">47.75268</SimpleData>
+		<SimpleData name="lat">-21.00148</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.75268,-21.00148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Site communautaire Anivorano Antsindra</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_community_site_locations_level_3_district">
+		<SimpleData name="fid">195</SimpleData>
+		<SimpleData name="new_commun">ANTSINDRA</SimpleData>
+		<SimpleData name="old_commun">ANTSINDRA</SimpleData>
+		<SimpleData name="comm_fkt">ANTSINDRA_ANIVORANO</SimpleData>
+		<SimpleData name="lon">47.68848</SimpleData>
+		<SimpleData name="lat">-20.9039</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.68848,-20.9039</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ifd_minsap_csb_district_level_3_district" id="ifd_minsap_csb_district_level_3_district">
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+</Schema>
+<Folder><name>ifd_minsap_csb_district_level_3_district</name>
+  <Placemark>
+	<name>MAROHARATRA</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_minsap_csb_district_level_3_district">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="type">CSB2</SimpleData>
+		<SimpleData name="lat">-20.7323300028943</SimpleData>
+		<SimpleData name="lon">47.76887829</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.7688782997006,-20.7323300028943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FASINTSARA</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_minsap_csb_district_level_3_district">
+		<SimpleData name="fid">2</SimpleData>
+		<SimpleData name="type">CSB2</SimpleData>
+		<SimpleData name="lat">-20.7173196028981</SimpleData>
+		<SimpleData name="lon">47.69248269</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.6924826996917,-20.7173196028981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AMPASINAMBO</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_minsap_csb_district_level_3_district">
+		<SimpleData name="fid">3</SimpleData>
+		<SimpleData name="type">CSB2</SimpleData>
+		<SimpleData name="lat">-20.6090087029547</SimpleData>
+		<SimpleData name="lon">47.68677599</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.6867759996848,-20.6090087029547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AMBALAVOLO</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_minsap_csb_district_level_3_district">
+		<SimpleData name="fid">4</SimpleData>
+		<SimpleData name="type">CSB1</SimpleData>
+		<SimpleData name="lat">-20.7328544028977</SimpleData>
+		<SimpleData name="lon">47.83769869</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.8376986997078,-20.7328544028977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MAROMANANA</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_minsap_csb_district_level_3_district">
+		<SimpleData name="fid">5</SimpleData>
+		<SimpleData name="type">CSB1</SimpleData>
+		<SimpleData name="lat">-20.8872447027967</SimpleData>
+		<SimpleData name="lon">47.49051339</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.4905133996813,-20.8872447027967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AMBODIMANGA NORD</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_minsap_csb_district_level_3_district">
+		<SimpleData name="fid">6</SimpleData>
+		<SimpleData name="type">CSB1</SimpleData>
+		<SimpleData name="lat">-20.7657492028678</SimpleData>
+		<SimpleData name="lon">47.60685639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.6068563996857,-20.7657492028678</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AMBODIARA SUD</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_minsap_csb_district_level_3_district">
+		<SimpleData name="fid">7</SimpleData>
+		<SimpleData name="type">CSB1</SimpleData>
+		<SimpleData name="lat">-20.7805331028644</SimpleData>
+		<SimpleData name="lon">47.68691169</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.6869116996948,-20.7805331028644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ANALAMPASINA</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_minsap_csb_district_level_3_district">
+		<SimpleData name="fid">8</SimpleData>
+		<SimpleData name="type">CSB2</SimpleData>
+		<SimpleData name="lat">-20.838045002826</SimpleData>
+		<SimpleData name="lon">47.54604939</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.5460493996838,-20.838045002826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MAHASOA</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_minsap_csb_district_level_3_district">
+		<SimpleData name="fid">9</SimpleData>
+		<SimpleData name="type">CSB1</SimpleData>
+		<SimpleData name="lat">-21.5022758024828</SimpleData>
+		<SimpleData name="lon">47.78635519</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.786355199746,-21.5022758024828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MAROTOKO</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_minsap_csb_district_level_3_district">
+		<SimpleData name="fid">10</SimpleData>
+		<SimpleData name="type">CSB2</SimpleData>
+		<SimpleData name="lat">-21.5962720024302</SimpleData>
+		<SimpleData name="lon">47.76253099</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.7625309997494,-21.5962720024302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ANTARETRA</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_minsap_csb_district_level_3_district">
+		<SimpleData name="fid">11</SimpleData>
+		<SimpleData name="type">CSB2</SimpleData>
+		<SimpleData name="lat">-21.3559485025617</SimpleData>
+		<SimpleData name="lon">47.77799989</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.7779998997369,-21.3559485025617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RANOMAFANA</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_minsap_csb_district_level_3_district">
+		<SimpleData name="fid">12</SimpleData>
+		<SimpleData name="type">CSB2</SimpleData>
+		<SimpleData name="lat">-21.2581142025963</SimpleData>
+		<SimpleData name="lon">47.45508829</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.4550882997013,-21.2581142025963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KELILALINA</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_minsap_csb_district_level_3_district">
+		<SimpleData name="fid">13</SimpleData>
+		<SimpleData name="type">CSB2</SimpleData>
+		<SimpleData name="lat">-21.2874100025863</SimpleData>
+		<SimpleData name="lon">47.55358979</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.5535897997122,-21.2874100025863</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>IFANADIANA</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_minsap_csb_district_level_3_district">
+		<SimpleData name="fid">14</SimpleData>
+		<SimpleData name="type">CSB2</SimpleData>
+		<SimpleData name="lat">-21.3014634025835</SimpleData>
+		<SimpleData name="lon">47.63734939</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.6373493997208,-21.3014634025835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TSARATANANA</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_minsap_csb_district_level_3_district">
+		<SimpleData name="fid">15</SimpleData>
+		<SimpleData name="type">CSB2</SimpleData>
+		<SimpleData name="lat">-21.1774437026503</SimpleData>
+		<SimpleData name="lon">47.63722949</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.6372294997133,-21.1774437026503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ANTSINDRA</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_minsap_csb_district_level_3_district">
+		<SimpleData name="fid">16</SimpleData>
+		<SimpleData name="type">CSB2</SimpleData>
+		<SimpleData name="lat">-20.9873184027574</SimpleData>
+		<SimpleData name="lon">47.73516259</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.7351625997117,-20.9873184027574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AMBOHIMIERA</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_minsap_csb_district_level_3_district">
+		<SimpleData name="fid">17</SimpleData>
+		<SimpleData name="type">CSB2</SimpleData>
+		<SimpleData name="lat">-21.0576817027071</SimpleData>
+		<SimpleData name="lon">47.51008409</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.5100840996938,-21.0576817027071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AMBOHIMANGA DU SUD</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_minsap_csb_district_level_3_district">
+		<SimpleData name="fid">18</SimpleData>
+		<SimpleData name="type">CSB2</SimpleData>
+		<SimpleData name="lat">-20.877272902808</SimpleData>
+		<SimpleData name="lon">47.59296679</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.5929667996909,-20.877272902808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AMBIABE</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_minsap_csb_district_level_3_district">
+		<SimpleData name="fid">19</SimpleData>
+		<SimpleData name="type">CSB2</SimpleData>
+		<SimpleData name="lat">-21.394531602531</SimpleData>
+		<SimpleData name="lon">47.59948519</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.599485199723,-21.394531602531</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ANDRORANGAVOLA</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_minsap_csb_district_level_3_district">
+		<SimpleData name="fid">20</SimpleData>
+		<SimpleData name="type">CSB2</SimpleData>
+		<SimpleData name="lat">-21.5031059024786</SimpleData>
+		<SimpleData name="lon">47.71712609</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.71712609974,-21.5031059024786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ANALAMARINA</name>
+	<ExtendedData><SchemaData schemaUrl="#ifd_minsap_csb_district_level_3_district">
+		<SimpleData name="fid">21</SimpleData>
+		<SimpleData name="type">CSB1</SimpleData>
+		<SimpleData name="lat">-21.0451164027218</SimpleData>
+		<SimpleData name="lon">47.64950239</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.6495023997066,-21.0451164027218</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
